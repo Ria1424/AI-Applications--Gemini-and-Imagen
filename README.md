@@ -1,1 +1,1 @@
-# AI-Applications--Gemini-and-Imagen
+# Build Real World AI Applications with Gemini and Imagen
